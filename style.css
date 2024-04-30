@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    background-color: aqua;
+    height: 120px;
+    width: 100%;
+    /* padding: 20px; */
+    /* position: absolute; */
+}
+
+.nav-bar{
+    background-color: blue;
+    height: 40px;
+    padding: 10px;
+    
+}
+
+
+.nav-items{
+    /* margin: 30px; */
+    background-color: red;
+}
+
